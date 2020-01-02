@@ -1,6 +1,6 @@
 # unity-island-master
 벨트 스크롤 무인도 생존 게임과 관련된 것을 관리하는 저장소
-<img src="imgs/Main.png">
+<img src="imgs/Main.">
 
 ## 준비물
 - Unity3D
