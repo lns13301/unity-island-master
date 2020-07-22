@@ -1,0 +1,48 @@
+{
+    "skillDatas": [
+        {
+            "skillId": 0,
+            "skillName": "허기인내",
+            "imagePath": "Images/Items/Images/3000001",
+            "level": 100,
+            "experience": 10000,
+            "information": "허기에 대한 저항력이 상승한다.\n\n포화수치가 20 % 미만을 유지하면 숙련도가 올라간다.\n\n포화 감소율 - 1 %\n최대 포화 + 1 % ",
+            "image": {
+                "instanceID": 0
+            }
+        },
+        {
+            "skillId": 1,
+            "skillName": "갈증인내",
+            "imagePath": "Images/Items/Images/3000002",
+            "level": 100,
+            "experience": 10000,
+            "information": "갈증에 대한 저항력이 상승한다.\n\n갈증수치가 20 % 미만을 유지하면 숙련도가 올라간다.\n\n갈증 감소율 - 1 %\n최대 갈증 + 1 % ",
+            "image": {
+                "instanceID": 0
+            }
+        },
+        {
+            "skillId": 2,
+            "skillName": "배변인내",
+            "imagePath": "Images/Items/Images/3000002",
+            "level": 100,
+            "experience": 10000,
+            "information": "배변에 대한 저항력이 상승한다.\n\n배변수치가 20 % 미만을 유지하면 숙련도가 올라간다.\n\n배변 감소율 - 1 %\n최대 배변 + 1 % ",
+            "image": {
+                "instanceID": 0
+            }
+        },
+        {
+            "skillId": 3,
+            "skillName": "기력인내",
+            "imagePath": "Images/Items/Images/3000002",
+            "level": 100,
+            "experience": 10000,
+            "information": "기력에 대한 저항력이 상승한다.\n\n기력수치가 20 % 미만을 유지하면 숙련도가 올라간다.\n\n기력 감소율 - 1 %\n최대 기력 + 1 % ",
+            "image": {
+                "instanceID": 0
+            }
+        }
+    ]
+}
